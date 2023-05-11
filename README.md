@@ -28,6 +28,7 @@ Dins de l’arxiu hi ha els següents punts:
 
 - Import íntegre i aportació CatSalut segons regió sanitària i grup ATC1.
 
-Contribuïdor
+Contribuïdor:
+
 Francesc Arcas Ruscalleda
 
